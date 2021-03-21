@@ -1,5 +1,16 @@
-# mastering-git-web
+# 가짜뉴스 출처 판독기 (Fake news reference finder)
 
-This repository houses a proposed website for the Mastering Git book.
+* 프로젝트 목적
 
-Contact: mwkoo@sogang.ac.kr
+> Fake news is cheap to produce. Genuine journalism is expensive.
+연예, 정치, 스포츠 등을 불문하고 여러가지 가짜뉴스가 유포되는 상황에서 우리가 할 수 있는 일은 무엇이 있을까?
+가짜뉴스를 차단하려는 연구와 노력은 지금도 많지만 완벽하게 차단하기에는 아직까지도 부족하다.
+지금까지 가짜뉴스와 관련된 자료들을 살펴보면 가짜뉴스의 원천이 되는 언론 플랫폼을 검증하는 방식이나
+악의적이고 조직적으로 활동하는 루머 유포자들의 비정상적인 움직임을 찾아내는 데 주력하고 있다.
+
+하지만 가짜뉴스가 비로소 그 영향력을 발휘하는 것은 루머의 배포가 아닌,
+일반인들이 무분별하고, 근거 없는 루머들을 믿기 시작할 때이다.
+기존의 연구와 노력들은 인터넷 사용자 관점에서의 가짜뉴스 차단 방법을 고려하지 않았다고 판단하여 이 프로젝트를 구상했다.
+
+서강대 컴퓨터공학과 20151541 나철웅
+Capstone Design
